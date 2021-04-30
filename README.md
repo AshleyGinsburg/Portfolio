@@ -1,6 +1,6 @@
 # Ashley Ginsburg Portfolio
 
-<!DOCTYPE html>
+<!DOCTYPE index.html>
 <html>
 <body>
 <h1>Below you can find my senior portfolio. </h1>
